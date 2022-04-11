@@ -18,6 +18,4 @@ To switch from default CGA graphics to Hercules, do the following on command lin
 
 You can swap back by running drivers IBMCOLOR to go back to CGA.
 
-VMWare is not compatible with how this software uses CGA graphics. Neither VMWare nor Virtualbox emulate serial mice. We recommend that you do NOT use VMWare or Virtualbox. We recommend [PCEm](http://pcem-emulator.co.uk/) or [PCE](http://www.hampa.ch/pce/) instead.
-
-**_Screenshots courtesy of [ToastyTech](http://toastytech.com/guis/win1984.html)_**
+VMWare is not compatible with how this software uses CGA graphics. Neither VMWare nor Virtualbox emulate serial mice. We recommend that you do NOT use VMWare or Virtualbox. We recommend [PCEm](http://pcem-emulator.co.uk/) or [PCE](http://www.hampa.ss
